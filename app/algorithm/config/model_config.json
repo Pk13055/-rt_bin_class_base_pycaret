@@ -1,5 +1,5 @@
 {
-  "MODEL_NAME": "RandomForest_sklearn",
+  "MODEL_NAME": "BinaryClassifier_pycaret",
   "default_fnames": {
     "def_train_fname": "train.csv",
     "def_test_fname": "test.csv",
